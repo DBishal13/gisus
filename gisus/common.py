@@ -6,7 +6,7 @@ def hello_world():
     """
     print("Hello World!")
 
-def random number():
+def random_number():
     """Returns a random number between 0 and 1.
     """
     import random
