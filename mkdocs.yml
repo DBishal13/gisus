@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/DBishal13/gisus/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/random.ipynb
     - API Reference:
           - gisus module: gisus.md
           - common module: common.md
