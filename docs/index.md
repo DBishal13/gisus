@@ -13,4 +13,8 @@
 
 ## Features
 
--   TODO
+-   Generate random numbers
+
+## Demo
+
+![](https://files.realpython.com/media/NumPy-Random-Number-Generator_Watermarked.f87659b8e3ee.jpg)
