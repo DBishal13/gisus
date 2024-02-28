@@ -1,7 +1,7 @@
 site_name: gisus
 site_description: A python package for geospatial analysis
 site_author: DBishal13
-site_url: https://DBishal13.github.io/gisus
+site_url: https://gisus.live
 repo_url: https://github.com/DBishal13/gisus
 
 copyright: "Copyright &copy; 2024 - 2024 Bishal Dhungana"

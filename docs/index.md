@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT License
--   Documentation: <https://DBishal13.github.io/gisus>
+-   Documentation: <https://gisus.live>
     
 
 ## Features
