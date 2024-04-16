@@ -82,6 +82,7 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/random.ipynb
+        - examples/demo.ipynb
     - API Reference:
           - gisus module: gisus.md
           - common module: common.md
